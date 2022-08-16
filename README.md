@@ -2,7 +2,7 @@
 Tic Tac Toe using Objective-C for iOS
 
 # Built By:
-Name: Anshuman Mitra
+Name: Anshuman Mitra\n
 Date: 15 Aug 2022
 
 # Version:
